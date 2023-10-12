@@ -1,2 +1,4 @@
 /.env
 /.venv
+main.app/app.yaml
+streamit_app/app.yaml
